@@ -1,0 +1,11 @@
+C:\Users\aydua\source\repos\IBM Notes 13.0.0.1 Insider Preview\IBM Notes 13.0.0.1 Insider Preview\obj\ARM\Release\IBM Notes 13.0.0.1 Insider Preview.vbprojAssemblyReference.cache
+C:\Users\aydua\source\repos\IBM Notes 13.0.0.1 Insider Preview\IBM Notes 13.0.0.1 Insider Preview\obj\ARM\Release\App.g.i.vb
+C:\Users\aydua\source\repos\IBM Notes 13.0.0.1 Insider Preview\IBM Notes 13.0.0.1 Insider Preview\obj\ARM\Release\App.g.vb
+C:\Users\aydua\source\repos\IBM Notes 13.0.0.1 Insider Preview\IBM Notes 13.0.0.1 Insider Preview\obj\ARM\Release\MainPage.g.i.vb
+C:\Users\aydua\source\repos\IBM Notes 13.0.0.1 Insider Preview\IBM Notes 13.0.0.1 Insider Preview\obj\ARM\Release\MainPage.g.vb
+C:\Users\aydua\source\repos\IBM Notes 13.0.0.1 Insider Preview\IBM Notes 13.0.0.1 Insider Preview\obj\ARM\Release\XamlTypeInfo.g.vb
+C:\Users\aydua\source\repos\IBM Notes 13.0.0.1 Insider Preview\IBM Notes 13.0.0.1 Insider Preview\obj\ARM\Release\App.xaml
+C:\Users\aydua\source\repos\IBM Notes 13.0.0.1 Insider Preview\IBM Notes 13.0.0.1 Insider Preview\obj\ARM\Release\MainPage.xaml
+C:\Users\aydua\source\repos\IBM Notes 13.0.0.1 Insider Preview\IBM Notes 13.0.0.1 Insider Preview\obj\ARM\Release\App.xbf
+C:\Users\aydua\source\repos\IBM Notes 13.0.0.1 Insider Preview\IBM Notes 13.0.0.1 Insider Preview\obj\ARM\Release\MainPage.xbf
+C:\Users\aydua\source\repos\IBM Notes 13.0.0.1 Insider Preview\IBM Notes 13.0.0.1 Insider Preview\obj\ARM\Release\XamlSaveStateFile.xml
